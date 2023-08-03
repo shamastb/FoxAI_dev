@@ -1,0 +1,5 @@
+langchain
+streamlit
+sentence_transformers
+"langchain[docarray]"
+DuckDuckGoSearchRun
